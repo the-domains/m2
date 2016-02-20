@@ -1,0 +1,14 @@
+layout_spectrum: 0.9062126
+typography_spectrum: 0.1356033
+color:
+  saturation: 1
+  lightness: 0.1308243
+  brandStrength: 0.9281213
+  brandColors:
+    - '#7FACE9'
+    - '#FF645D'
+    - '#16161F'
+    - '#FFFFFA'
+    - '#E6CF89'
+  rhythmicContrast: 1
+name: M2
