@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[M2]]></title>
         <description><![CDATA[M2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/m2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:42:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 18:42:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/m2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My sport]]></title>
+            <description><![CDATA[<article><h1>My sport</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/380f0570d64d5a924a944ecbeb727fbe2d0ec161.jpg"></article>]]></description>
+            <link>http://www.worldtaekwondofederation.net/</link>
+            <guid isPermaLink="false">fedf48ac-56f8-4c7c-9ea6-752fb6dc6c83</guid>
+            <pubDate>Sat, 20 Feb 2016 18:42:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My family]]></title>
             <description><![CDATA[<article><h1>My family</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/726f3c546faf4c9a0a02cbb2b32b496bc8eb91f3.png"></article>]]></description>
-            <link>undefinedmy-family/index.html</link>
+            <link>https://thegrid.ai/m2/my-family/index.html</link>
             <guid isPermaLink="false">53c1b080-ee2b-46be-821a-407755619fbc</guid>
             <pubDate>Sat, 20 Feb 2016 18:42:07 GMT</pubDate>
         </item>
