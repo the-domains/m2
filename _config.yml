@@ -1,14 +1,28 @@
-layout_spectrum: 0.9062126
+name: M2
+favicon: null
+layout_spectrum: 0.48614
 typography_spectrum: 0.1356033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0.1308243
-  brandStrength: 0.9281213
   brandColors:
     - '#7FACE9'
     - '#FF645D'
     - '#16161F'
     - '#FFFFFA'
     - '#E6CF89'
-  rhythmicContrast: 1
-name: M2
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
